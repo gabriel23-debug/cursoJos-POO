@@ -45,7 +45,8 @@ package POO;
 public class Ferrari {
 
 	public static void main(String[] args) {
-
+        
+	
  		Carro ferrari = new Carro();
 	    ferrari.ano = 2017;
  		ferrari.cor = "Azul";
